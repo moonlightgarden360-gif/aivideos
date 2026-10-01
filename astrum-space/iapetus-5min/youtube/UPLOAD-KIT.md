@@ -89,3 +89,7 @@ The clean versions let you add your own text in Canva or Photoshop, and are usef
 - [ ] SRT uploaded
 - [ ] End screen added
 - [ ] Comment pinned after publishing
+
+## 10. The Short
+
+The vertical Short, with its hook, captions, title and upload steps, is in [`../short/SHORT-KIT.md`](../short/SHORT-KIT.md). Post it 1–2 days after this video and set this video as its **related video**.
