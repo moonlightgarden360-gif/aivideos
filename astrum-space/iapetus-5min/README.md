@@ -34,6 +34,8 @@
 
 ## YouTube upload kit
 
+> Superseded by the full package in [`youtube/UPLOAD-KIT.md`](youtube/UPLOAD-KIT.md) (thumbnails, SRT, settings, end screen). The draft below is kept for reference.
+
 **Title:** Cassini Found Something Very Strange on Saturn's Moon Iapetus
 
 **Alt titles (A/B test):** The Moon With Two Faces and a Wall Around Its Middle · Why Does This Moon Look Fake?

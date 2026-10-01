@@ -169,7 +169,7 @@ So the dust from Phoebe was probably just the trigger. The real artist was the S
 
 `[VISUAL: The two-tone disc again. Overlay Clarke's imagined oval for a moment, then let it fade.]`
 
-Clarke imagined Iapetus's strange face as a signpost left by an alien intelligence. The real explanation is a ring of dust a billion Earths wide, a moon with six-week days, and ice that moves on its own. Personally, I find that even more remarkable.
+Clarke imagined Iapetus's strange face as a signpost left by an alien intelligence. The real explanation is a ring of dust big enough to hold a billion Earths, a moon with six-week days, and ice that moves on its own. Personally, I find that even more remarkable.
 
 But we still have one more mystery to solve. That wall.
 
